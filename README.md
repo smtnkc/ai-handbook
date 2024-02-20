@@ -55,7 +55,11 @@
   * [T5](https://huggingface.co/docs/transformers/en/model_doc/t5)
   * [PEGASUS](https://huggingface.co/docs/transformers/en/model_doc/pegasus) 
 
-<img src="https://raw.githubusercontent.com/smtnkc/ai-notebook/main/transformer_models.png" alt="transformer_models" width="600"/>
+<img src="https://raw.githubusercontent.com/smtnkc/ai-notebook/main/transformer_models.png" alt="transformer_models" width="720"/>
+
+## LLMs Evaluation
+
+<img src="https://raw.githubusercontent.com/smtnkc/ai-notebook/main/llms_evaluation.png" alt="llms_evaluation" width="720"/>
  
 ## References
 * [Understanding Encoder And Decoder LLMs](https://magazine.sebastianraschka.com/p/understanding-encoder-and-decoder)
@@ -64,3 +68,4 @@
 * [BERT Fine-Tuning Tutorial with PyTorch](https://mccormickml.com/2019/07/22/BERT-fine-tuning/)
 * [Domain Adaptation with HuggingFace MLM](https://www.kaggle.com/code/hinepo/domain-adaptation-with-mlm)
 * [Training BERT from Scratch on Your Custom Domain Data](https://medium.com/@shankar.arunp/training-bert-from-scratch-on-your-custom-domain-data-a-step-by-step-guide-with-amazon-25fcbee4316a)
+* [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109)
