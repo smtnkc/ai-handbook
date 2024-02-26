@@ -4,7 +4,8 @@
 
 * AGI: Artificial General Intelligence 
 * MMLU: Massive Multitask Language Understanding
-* RLHF: Reinforcement learning from human feedback 
+* RLHF: Reinforcement learning from human feedback
+* [Retrieval-Augmented Generation (RAG)](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)
 * [Hallucinations](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))
 * [Catastrophic interference (forgetting)](https://en.wikipedia.org/wiki/Catastrophic_interference)
 * [Stochastic Parrot](https://en.wikipedia.org/wiki/Stochastic_parrot)
