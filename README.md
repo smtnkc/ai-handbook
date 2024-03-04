@@ -36,6 +36,8 @@
 * [Chroma](https://www.trychroma.com/)
 * [Open-WebUI](https://docs.openwebui.com/)
 * [Raycast](https://www.raycast.com/)
+* [Streamlit](https://streamlit.io/)
+* [NiceGUI](https://nicegui.io/)
 
 ## Libraries & Frameworks
 * [LoRA](https://huggingface.co/docs/diffusers/en/training/lora)
