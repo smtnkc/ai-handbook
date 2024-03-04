@@ -30,8 +30,16 @@
 * [Magnific.ai](https://magnific.ai/) (Image upscaler)
 * [Lisa AI](https://lisaai.app/) (Artistic image generator)
 
+## AIOps
+* [Vercel](https://vercel.com/)
+* [FastAPI](https://fastapi.tiangolo.com/)
+* [Chroma](https://www.trychroma.com/)
+* [Open-WebUI](https://docs.openwebui.com/)
+* [Raycast](https://www.raycast.com/)
+
 ## Libraries & Frameworks
 * [LoRA](https://huggingface.co/docs/diffusers/en/training/lora)
+* [DSPy](https://dspy-docs.vercel.app/)
 * [Ollama](https://ollama.com/)
 * [LM Studio](https://lmstudio.ai/)
 * [Cody](https://meetcody.ai/)
