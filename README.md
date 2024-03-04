@@ -69,6 +69,10 @@
 ## LLMs Evaluation
 
 <img src="https://raw.githubusercontent.com/smtnkc/ai-notebook/main/llms_evaluation.png" alt="llms_evaluation" width="720"/>
+
+## Overused Words
+
+> holistic, multifaceted, nuanced, comprehensive, meticulously, landscape, realm, delve, tapestry, seamlessly, unleash, embark, unwavering, unraveling, testament, leveraging, fostering, cultivate, it’s important to…
  
 ## References
 * [Understanding Encoder And Decoder LLMs](https://magazine.sebastianraschka.com/p/understanding-encoder-and-decoder)
