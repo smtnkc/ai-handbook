@@ -66,19 +66,21 @@
 
 ## Transformer Models
 
-* Encoder-only :arrow_right: Classification or Extractive Summarization
-  * [BERT](https://huggingface.co/docs/transformers/main/en/model_doc/bert)
-  * [RoBERTa](https://huggingface.co/docs/transformers/main/en/model_doc/roberta) 
-* Decoder-only :arrow_right: Prompty-based (autoregressive) text generation
-  * [GPT](https://huggingface.co/docs/transformers/en/model_doc/openai-gpt)
-  * [Mistral](https://huggingface.co/docs/transformers/main/en/model_doc/mistral)
-  * [Mixtral](https://huggingface.co/docs/transformers/en/model_doc/mixtral)
-  * [LLaMa](https://huggingface.co/docs/transformers/main/en/model_doc/llama)
-  * [PaLM](https://ai.google/discover/palm2/)
-* Encoder + Decoder :arrow_right: Translation or Abstractive Summarization
-  * [BART](https://huggingface.co/docs/transformers/en/model_doc/bart)
-  * [T5](https://huggingface.co/docs/transformers/en/model_doc/t5)
-  * [PEGASUS](https://huggingface.co/docs/transformers/en/model_doc/pegasus) 
+#### Encoder-only (Classification or Extractive Summarization)
+* [BERT](https://huggingface.co/docs/transformers/main/en/model_doc/bert)
+* [RoBERTa](https://huggingface.co/docs/transformers/main/en/model_doc/roberta) 
+
+#### Decoder-only (Prompty-based Autoregressive Text Generation)
+* [GPT](https://huggingface.co/docs/transformers/en/model_doc/openai-gpt)
+* [Mistral](https://huggingface.co/docs/transformers/main/en/model_doc/mistral)
+* [Mixtral](https://huggingface.co/docs/transformers/en/model_doc/mixtral)
+* [LLaMa](https://huggingface.co/docs/transformers/main/en/model_doc/llama)
+* [PaLM](https://ai.google/discover/palm2/)
+
+#### Encoder + Decoder (Translation or Abstractive Summarization)
+* [BART](https://huggingface.co/docs/transformers/en/model_doc/bart)
+* [T5](https://huggingface.co/docs/transformers/en/model_doc/t5)
+* [PEGASUS](https://huggingface.co/docs/transformers/en/model_doc/pegasus) 
 
 <img src="https://raw.githubusercontent.com/smtnkc/ai-notebook/main/transformer_models.png" alt="transformer_models" width="720"/>
 
