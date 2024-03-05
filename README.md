@@ -1,4 +1,4 @@
-# ai-notebook
+# AI Handbook
 
 ## Terms
 
@@ -34,7 +34,7 @@
 * [Rawdog](https://github.com/AbanteAI/rawdog) (CLI assistant that responds by generating and auto-executing a Python script)
 
 #### LLM Frameworks
-* [LoRA](https://huggingface.co/docs/diffusers/en/training/lora) (lightweight training technique that reduces the number of trainable parameters)
+* [LoRA](https://huggingface.co/docs/diffusers/en/training/lora) (Lightweight training technique that reduces the number of trainable parameters)
 * [DSPy](https://dspy-docs.vercel.app/) (Solves the fragility in LLM apps by replacing prompting with programming and compiling) [[More Info](https://towardsdatascience.com/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9)]
 * [LangChain](https://www.langchain.com/) (Build, observe, and deploy LLM‑powered apps easily)
 * [LlamaIndex](https://www.llamaindex.ai/) (Turn your enterprise data into production-ready LLM applications)
