@@ -22,15 +22,39 @@
 * ROUGE score: Metric for text summarization
 * Perplexity: Metric for MLM
 
-## Tools
-* [ChatGPT](https://chat.openai.com/)
+## Tools, Frameworks, Libraries
+
+#### AI assistants
+* [ChatGPT](https://chat.openai.com/) (A chatbot developed by OpenAI)
 * [Gemini](https://gemini.google.com/app) (Successor of BARD)
 * [AlphaCode 2](https://deepmind.google/discover/blog/competitive-programming-with-alphacode/) (Programming tool powered by Gemini)
+* [SciSpace](https://typeset.io/) (AI chat for scientific PDFs)
+* [JSTOR](https://www.jstor.org/) (AI chat for scientific PDFs)
+* [Cody](https://meetcody.ai/) (Customly trainable AI assistant for businesses)
+* [Rawdog](https://github.com/AbanteAI/rawdog) (CLI assistant that responds by generating and auto-executing a Python script)
+
+#### LLM Frameworks
+* [LoRA](https://huggingface.co/docs/diffusers/en/training/lora) (lightweight training technique that reduces the number of trainable parameters)
+* [DSPy](https://dspy-docs.vercel.app/) (Solves the fragility in LLM apps by replacing prompting with programming and compiling) [[More Info](https://towardsdatascience.com/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9)]
+* [LangChain](https://www.langchain.com/) (Build, observe, and deploy LLM‑powered apps easily)
+* [LlamaIndex](https://www.llamaindex.ai/) (Turn your enterprise data into production-ready LLM applications)
+* [Ollama](https://ollama.com/) (Get up and running with large language models, locally)
+* [Phoenix](https://phoenix.arize.com/) (For AI observability and evaluation)
+* [LM Studio](https://lmstudio.ai/) (Discover, download, and run local LLMs)
+
+#### Image Processing
 * [Midjourney](https://www.midjourney.com/home) (Image generator) 
 * [Magnific.ai](https://magnific.ai/) (Image upscaler)
 * [Lisa AI](https://lisaai.app/) (Artistic image generator)
+* [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) (Text-to-image model from StabilityAI)
+* [DreamBooth](https://dreambooth.github.io/) (A fine-tuning model for stable diffusion model)
+ 
+#### Other Productivity
+* [Localpilot](https://github.com/danielgross/localpilot) (Local GitHub Copilot on Macbook)
+* [NextFlow](https://www.nextflow.io/) (Reproducible scientific workflows using software containers)
+* [nf-core](https://nf-co.re/pipelines) (Bioinformatics pipelines)
 
-## AIOps
+#### AI Deployment
 * [Vercel](https://vercel.com/)
 * [FastAPI](https://fastapi.tiangolo.com/)
 * [Chroma](https://www.trychroma.com/)
@@ -39,16 +63,6 @@
 * [Streamlit](https://streamlit.io/)
 * [NiceGUI](https://nicegui.io/)
 
-## Libraries & Frameworks
-* [LoRA](https://huggingface.co/docs/diffusers/en/training/lora)
-* [DSPy](https://dspy-docs.vercel.app/)
-* [Ollama](https://ollama.com/)
-* [LM Studio](https://lmstudio.ai/)
-* [Cody](https://meetcody.ai/)
-* [Localpilot](https://github.com/danielgross/localpilot)
-* [Rawdog](https://github.com/AbanteAI/rawdog)
-* [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)
-* [DreamBooth](https://dreambooth.github.io/)
 
 ## Transformer Models
 
