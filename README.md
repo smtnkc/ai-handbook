@@ -93,6 +93,7 @@
 > holistic, multifaceted, nuanced, comprehensive, meticulously, landscape, realm, delve, tapestry, seamlessly, unleash, embark, unwavering, unraveling, testament, leveraging, fostering, cultivate, intricate, it’s important to…
  
 ## References
+* [Understanding Deep Learning (Simon J.D. Prince)](https://udlbook.github.io/udlbook/)
 * [Understanding Encoder And Decoder LLMs](https://magazine.sebastianraschka.com/p/understanding-encoder-and-decoder)
 * [Encoder-Only vs Decoder-Only vs Encoder-Decoder Transformer](https://vaclavkosar.com/ml/Encoder-only-Decoder-only-vs-Encoder-Decoder-Transfomer)
 * [BART Text Summarization vs. GPT-3 vs. BERT: An In-Depth Comparison](https://www.width.ai/post/bart-text-summarization)
