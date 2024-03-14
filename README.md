@@ -32,6 +32,7 @@
 * [JSTOR](https://www.jstor.org/) (AI chat for scientific PDFs)
 * [Cody](https://meetcody.ai/) (Customly trainable AI assistant for businesses)
 * [Rawdog](https://github.com/AbanteAI/rawdog) (CLI assistant that responds by generating and auto-executing a Python script)
+* [Devin](https://www.cognition-labs.com/) (AI Software Engineer by Cognition)
 
 #### LLM Frameworks
 * [LoRA](https://huggingface.co/docs/diffusers/en/training/lora) (Lightweight training technique that reduces the number of trainable parameters)
@@ -49,10 +50,14 @@
 * [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) (Text-to-image model from StabilityAI)
 * [DreamBooth](https://dreambooth.github.io/) (A fine-tuning model for stable diffusion model)
  
-#### Other Productivity
+#### Productivity
 * [Localpilot](https://github.com/danielgross/localpilot) (Local GitHub Copilot on Macbook)
 * [NextFlow](https://www.nextflow.io/) (Reproducible scientific workflows using software containers)
 * [nf-core](https://nf-co.re/pipelines) (Bioinformatics pipelines)
+
+#### Resources & Repositories
+* [labml](https://nn.labml.ai/) (Repository of annotated research paper implementations)
+* [Awesome Open-source Machine Learning for Developers](https://github.com/merveenoyan/awesome-osml-for-devs)
 
 #### AI Deployment
 * [Vercel](https://vercel.com/)
@@ -62,7 +67,10 @@
 * [Raycast](https://www.raycast.com/)
 * [Streamlit](https://streamlit.io/)
 * [NiceGUI](https://nicegui.io/)
-
+* [Transformers.js](https://github.com/xenova/transformers.js) (Run 🤗 Transformers directly in your browser, with no need for a server)
+* [WebGPU](https://en.wikipedia.org/wiki/WebGPU) (A JS API that enables webpage scripts to efficiently utilize a device's GPU)
+* [WASM](https://webassembly.org/) (a binary instruction format for compiling and executing code in a client-side web browser)
+* [Burn](https://github.com/tracel-ai/burn) (Dynamic Deep Learning Framework built using Rust)
 
 ## Transformer Models
 
