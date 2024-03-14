@@ -69,7 +69,7 @@
 * [NiceGUI](https://nicegui.io/)
 * [Transformers.js](https://github.com/xenova/transformers.js) (Run 🤗 Transformers directly in your browser, with no need for a server)
 * [WebGPU](https://en.wikipedia.org/wiki/WebGPU) (A JS API that enables webpage scripts to efficiently utilize a device's GPU)
-* [WASM](https://webassembly.org/) (a binary instruction format for compiling and executing code in a client-side web browser)
+* [WASM](https://webassembly.org/) (A binary instruction format for compiling and executing code in a client-side web browser)
 * [Burn](https://github.com/tracel-ai/burn) (Dynamic Deep Learning Framework built using Rust)
 
 ## Transformer Models
