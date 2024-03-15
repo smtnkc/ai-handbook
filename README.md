@@ -33,6 +33,7 @@
 * [Cody](https://meetcody.ai/) (Customly trainable AI assistant for businesses)
 * [Rawdog](https://github.com/AbanteAI/rawdog) (CLI assistant that responds by generating and auto-executing a Python script)
 * [Devin](https://www.cognition-labs.com/) (AI Software Engineer by Cognition)
+* [LaVague](https://github.com/lavague-ai/LaVague) (Browser interaction and task automation)
 
 #### LLM Frameworks
 * [LoRA](https://huggingface.co/docs/diffusers/en/training/lora) (Lightweight training technique that reduces the number of trainable parameters)
