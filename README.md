@@ -34,6 +34,8 @@
 * [Rawdog](https://github.com/AbanteAI/rawdog) (CLI assistant that responds by generating and auto-executing a Python script)
 * [Devin](https://www.cognition-labs.com/) (AI Software Engineer by Cognition)
 * [LaVague](https://github.com/lavague-ai/LaVague) (Browser interaction and task automation)
+* [Chat with RTX](https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai/) (Locally personalized LLM by NVIDIA - 35Gb)
+* [EagleX](https://substack.recursal.ai/p/eaglex-17t-soaring-past-llama-7b) (Attention-free transformer LLM based on the RWKV-v5 architecture)
 
 #### LLM Frameworks
 * [LoRA](https://huggingface.co/docs/diffusers/en/training/lora) (Lightweight training technique that reduces the number of trainable parameters)
@@ -43,6 +45,7 @@
 * [Ollama](https://ollama.com/) (Get up and running with large language models, locally)
 * [Phoenix](https://phoenix.arize.com/) (For AI observability and evaluation)
 * [LM Studio](https://lmstudio.ai/) (Discover, download, and run local LLMs)
+* [NeoSync](https://github.com/nucleuscloud/neosync) (To create synthetic data or anonymize sensitive data for fine-tuning or model training)
 
 #### Image Processing
 * [Midjourney](https://www.midjourney.com/home) (Image generator) 
@@ -59,6 +62,7 @@
 #### Resources & Repositories
 * [labml](https://nn.labml.ai/) (Repository of annotated research paper implementations)
 * [Awesome Open-source Machine Learning for Developers](https://github.com/merveenoyan/awesome-osml-for-devs)
+* [LLMs from scratch](https://github.com/rasbt/LLMs-from-scratch) (Build a Large Language Model From Scratch)
 
 #### AI Deployment
 * [Vercel](https://vercel.com/)
