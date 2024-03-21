@@ -46,14 +46,22 @@
 * [Phoenix](https://phoenix.arize.com/) (For AI observability and evaluation)
 * [LM Studio](https://lmstudio.ai/) (Discover, download, and run local LLMs)
 * [NeoSync](https://github.com/nucleuscloud/neosync) (To create synthetic data or anonymize sensitive data for fine-tuning or model training)
+* [Langfuse](https://langfuse.com/) (Open Source LLM Engineering Platform)
+* [FastText](https://fasttext.cc/) (Library for efficient text classification and representation learning)
+* [PhiData](https://github.com/phidatahq/phidata) (A toolkit for building AI Assistants with function calling and connecting LLMs to external tools)
+* [ScreenAI](https://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html) (A visual language model for UI and visually-situated language understanding)
+* [MLX](https://github.com/ml-explore/mlx) (An array framework for machine learning research on Apple silicon)
+* [Pico MLX Server](https://github.com/ronaldmannak/PicoMLXServer) (A GUI to download and start AI models locally on Mac)
 
-#### Image Processing
+#### Computer Vision
 * [Midjourney](https://www.midjourney.com/home) (Image generator) 
 * [Magnific.ai](https://magnific.ai/) (Image upscaler)
 * [Lisa AI](https://lisaai.app/) (Artistic image generator)
 * [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) (Text-to-image model from StabilityAI)
 * [DreamBooth](https://dreambooth.github.io/) (A fine-tuning model for stable diffusion model)
- 
+* [VideoPoet](https://sites.research.google/videopoet/) (A large language model for zero-shot video generation)
+* [Supervision by Roboflow](https://github.com/roboflow/supervision) (A Python package of reusable computer vision tools)
+
 #### Productivity
 * [Localpilot](https://github.com/danielgross/localpilot) (Local GitHub Copilot on Macbook)
 * [NextFlow](https://www.nextflow.io/) (Reproducible scientific workflows using software containers)
@@ -63,6 +71,7 @@
 * [labml](https://nn.labml.ai/) (Repository of annotated research paper implementations)
 * [Awesome Open-source Machine Learning for Developers](https://github.com/merveenoyan/awesome-osml-for-devs)
 * [LLMs from scratch](https://github.com/rasbt/LLMs-from-scratch) (Build a Large Language Model From Scratch)
+* [ML Engineering](https://github.com/stas00/ml-engineering) (Machine Learning Engineering Open Book)
 
 #### AI Deployment
 * [Vercel](https://vercel.com/)
