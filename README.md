@@ -24,6 +24,8 @@
 * BLEU score: Metric for translation
 * ROUGE score: Metric for text summarization
 * Perplexity: Metric for MLM
+* [Embedding Quantization](https://huggingface.co/blog/embedding-quantization)
+* [DenseFormer](https://x.com/MatPagliardini/status/1771168258856501564)
 
 ## Tools, Frameworks, Libraries
 
