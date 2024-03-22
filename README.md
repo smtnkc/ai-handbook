@@ -14,6 +14,9 @@
 * CoT@32: Chain of thought prompting with 32 samples
 * MoE: Mixture of experts
 * [Data contamination vs Task contamination](https://cobusgreyling.medium.com/llm-performance-over-time-task-contamination-a69fde87dd86)
+* [AI Mirror Test](https://x.com/joshwhiton/status/1770870738863415500)
+* [AI Agentic Workflows](https://twitter.com/AndrewYNg/status/1770897666702233815)
+* [Foundation models](https://aws.amazon.com/tr/what-is/foundation-models)
 * Downstream tasks
 * Pre-training vs intermediate training (Domain Adaptation)
 * Transfer learning
@@ -36,6 +39,8 @@
 * [LaVague](https://github.com/lavague-ai/LaVague) (Browser interaction and task automation)
 * [Chat with RTX](https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai/) (Locally personalized LLM by NVIDIA - 35Gb)
 * [EagleX](https://substack.recursal.ai/p/eaglex-17t-soaring-past-llama-7b) (Attention-free transformer LLM based on the RWKV-v5 architecture)
+* [Sora](https://openai.com/sora) (Creating video from text by OpenAI)
+* [Open-Sora](https://github.com/hpcaitech/Open-Sora) (Open-source version of Sora)
 
 #### LLM Frameworks
 * [LoRA](https://huggingface.co/docs/diffusers/en/training/lora) (Lightweight training technique that reduces the number of trainable parameters)
@@ -51,7 +56,6 @@
 * [PhiData](https://github.com/phidatahq/phidata) (A toolkit for building AI Assistants with function calling and connecting LLMs to external tools)
 * [ScreenAI](https://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html) (A visual language model for UI and visually-situated language understanding)
 * [MLX](https://github.com/ml-explore/mlx) (An array framework for machine learning research on Apple silicon)
-* [Pico MLX Server](https://github.com/ronaldmannak/PicoMLXServer) (A GUI to download and start AI models locally on Mac)
 
 #### Computer Vision
 * [Midjourney](https://www.midjourney.com/home) (Image generator) 
@@ -61,6 +65,8 @@
 * [DreamBooth](https://dreambooth.github.io/) (A fine-tuning model for stable diffusion model)
 * [VideoPoet](https://sites.research.google/videopoet/) (A large language model for zero-shot video generation)
 * [Supervision by Roboflow](https://github.com/roboflow/supervision) (A Python package of reusable computer vision tools)
+* [YOLO](https://github.com/ultralytics/ultralytics) (Object detection, segmentation, pose estimation, tracking, and classification)
+* [LLaVa-NeXT](https://huggingface.co/docs/transformers/en/model_doc/llava_next) (An open-source multimodal language model that can take image)
 
 #### Productivity
 * [Localpilot](https://github.com/danielgross/localpilot) (Local GitHub Copilot on Macbook)
@@ -85,6 +91,7 @@
 * [WebGPU](https://en.wikipedia.org/wiki/WebGPU) (A JS API that enables webpage scripts to efficiently utilize a device's GPU)
 * [WASM](https://webassembly.org/) (A binary instruction format for compiling and executing code in a client-side web browser)
 * [Burn](https://github.com/tracel-ai/burn) (Dynamic Deep Learning Framework built using Rust)
+* [Pico MLX Server](https://github.com/ronaldmannak/PicoMLXServer) (A GUI to download and start AI models locally on Mac)
 
 ## Transformer Models
 
