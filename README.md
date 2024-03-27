@@ -119,9 +119,9 @@
 
 <img src="https://raw.githubusercontent.com/smtnkc/ai-notebook/main/llms_evaluation.png" alt="llms_evaluation" width="720"/>
 
-## Overused Words
+## Fancy LLM Jargon
 
-> holistic, multifaceted, nuanced, comprehensive, meticulously, landscape, realm, delve, tapestry, seamlessly, unleash, embark, unwavering, unraveling, testament, leveraging, fostering, cultivate, intricate, it’s important to…
+A regularly updated list of overused words and phrases is available in [Google Sheets](https://docs.google.com/spreadsheets/d/1cWPReollrG3GoVl63cqREgnxeJrzRDQd9skFt0QY2Xo/edit?usp=sharing).
  
 ## References
 * [Understanding Deep Learning (Simon J.D. Prince)](https://udlbook.github.io/udlbook/)
