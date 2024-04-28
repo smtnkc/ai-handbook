@@ -122,6 +122,8 @@
 ## Fancy LLM Jargon
 
 A regularly updated list of overused words and phrases is available in [Google Sheets](https://docs.google.com/spreadsheets/d/1cWPReollrG3GoVl63cqREgnxeJrzRDQd9skFt0QY2Xo/edit?usp=sharing).
+
+Further reading: [How cheap, outsourced labour in Africa is shaping AI English](https://www.theguardian.com/technology/2024/apr/16/techscape-ai-gadgest-humane-ai-pin-chatgpt)
  
 ## References
 * [Understanding Deep Learning (Simon J.D. Prince)](https://udlbook.github.io/udlbook/)
